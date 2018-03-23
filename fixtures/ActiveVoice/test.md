@@ -1,0 +1,3 @@
+In general, use active voice (in which the grammatical subject of the sentence is the person or thing performing the action) instead of passive voice (in which the grammatical subject of the sentence is the person or thing being acted upon), though there are exceptions.
+Not recommended - The service is queried, and an acknowledgment is sent.
+Recommended - Send a query to the service. The server sends an acknowledgment.

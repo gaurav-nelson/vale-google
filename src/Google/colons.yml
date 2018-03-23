@@ -1,0 +1,7 @@
+-extends: existence
+-message: In general, the first word in the text that follows a colon should be in lowercase.
+-link: 'https://developers.google.com/style/colons#colons-within-sentences'
+-level: warning
+-nonword: true
+-tokens:
+-  - ':\s[A-Z]'
